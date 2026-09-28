@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, sou o Afrânio (afrazebob) 👋
 
-<!--
-**afrazebob/afrazebob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR). Interesso-me por sistemas operacionais, computação em baixo nível, emulação, ferramentas de linha de comando e pela preservação da web artesanal (*indie web*).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No meu radar & Tecnologias
+
+- **Linguagens & Baixo Nível:** C, Python, Java, MIPS Assembly, C
+- **Ambiente & Workflow:** Arch Linux, Doom Emacs (`org-mode`), Neovim, Bash/Zsh
+- **Outros Interesses:** Desenvolvimento de jogos (Godot), simulações científicas e interfaces estáticas
+
+---
+
+### 📌 Projetos & Espaços
+
+- 🖥️ **[Dotfiles](https://github.com/afrazebob/dotfiles):** Minha configuração pessoal e ambiente de trabalho no Arch Linux, focando em produtividade no terminal e gerenciamento de janelas.
+- 🌐 **[Banana Soda Machine (Neocities)](https://seu-usuario.neocities.org):** Meu cantinho estático na web feito à mão com HTML/CSS puro, textos e experimentos visuais.
+- 🔬 **Acadêmicos & Experimentos:** Implementações de estruturas de dados, algoritmos clássicos, simulações e utilitários CLI.
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrazebob&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrazebob&layout=compact&theme=nord&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+- 🌐 **Website:** [bananasodamachine.neocities.org]((https://bananasodamachine.neocities.org/))
+- ✉️ **Contato:** afrazebob@gmail.com
