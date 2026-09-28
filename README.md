@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR). Int
 
 ### 🛠️ No meu radar & Tecnologias
 
-- **Linguagens que estou aprendendo:** C, Python, Java, MIPS Assembly, C
+- **Linguagens que estou aprendendo:** C, Python, Java, MIPS Assembly
 - **Ambiente & Workflow:** Arch Linux, Doom Emacs (`org-mode`), Neovim, Bash/Zsh
 - **Outros Interesses:** Desenvolvimento de jogos (Godot), simulações científicas e interfaces estáticas
 
