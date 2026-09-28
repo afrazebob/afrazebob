@@ -14,8 +14,8 @@ Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR). Int
 
 ### 📌 Projetos & Espaços
 
-- 🖥️ **[Dotfiles](https://github.com/afrazebob/dotfiles):** Minha configuração pessoal e ambiente de trabalho no Arch Linux, focando em produtividade no terminal e gerenciamento de janelas.
-- 🌐 **[Banana Soda Machine (Neocities)](https://seu-usuario.neocities.org):** Meu cantinho estático na web feito à mão com HTML/CSS puro, textos e experimentos visuais.
+- 🖥️ **[Dotfiles](https://github.com/afrazebob/dotfiles):** Minha configuração pessoal no Arch Linux, focando em produtividade no terminal, gerenciamento de janelas e umas diversões.
+- 🌐 **[Banana Soda Machine (Neocities)]((https://bananasodamachine.neocities.org/)))):** Meu cantinho estático na web feito à mão com HTML/CSS puro, textos e experimentos visuais.
 - 🔬 **Acadêmicos & Experimentos:** Implementações de estruturas de dados, algoritmos clássicos, simulações e utilitários CLI.
 
 ---
